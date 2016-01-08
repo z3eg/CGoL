@@ -213,10 +213,6 @@ public class Main extends Application {
         }
     }
 
-    private void das() {
-
-    }
-
     private void initTheField() {
         clearTheField();
         Random random = new Random();
